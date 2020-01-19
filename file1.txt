@@ -4,6 +4,6 @@
 1867.92	14254.47
 1867.1	14257.39
 Hello!
-Change for github
+Change second (from branch master)
 Second change
 Line from user1
